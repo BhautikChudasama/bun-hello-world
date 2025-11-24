@@ -1,0 +1,10 @@
+{
+  "name": "bun-hello-world",
+  "version": "1.0.0",
+  "description": "Simple hello world endpoint with Bun HTTP server",
+  "scripts": {
+    "start": "bun run server.ts"
+  },
+  "type": "module"
+}
+
